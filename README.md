@@ -1,4 +1,6 @@
-# portfolio
+![z](https://raw.githubusercontent.com/Shaldenkova/portfolio/master/IMG_0935.png)
+
+# Портфолио
 Study portfolio by Shaldenkova
 
 Данный GIT-репозиторий представляет собой портфолио работ по магистратуре студента: </br>
