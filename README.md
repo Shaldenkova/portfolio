@@ -1,4 +1,4 @@
-![z](https://raw.githubusercontent.com/Shaldenkova/portfolio/master/IMG_0935.png)
+![z](https://raw.githubusercontent.com/Shaldenkova/portfolio/master/IMG_0933.png)
 
 # Портфолио
 Study portfolio by Shaldenkova
