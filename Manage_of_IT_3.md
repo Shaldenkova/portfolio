@@ -6,6 +6,6 @@
 
 Как пример прилагаю скриншот одной из читаемых мной дисциплин - Базы данных.
 
-![пример](https://drive.google.com/open?id=1qWKWLijf5GW1Nb6RYrrPC_pPEMut6PSt)
+![пример](https://raw.githubusercontent.com/Shaldenkova/portfolio/master/Maket_BD.png)
 
 [ссылка на курс](https://moodle.herzen.spb.ru/course/view.php?id=4833)
