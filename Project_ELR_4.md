@@ -17,3 +17,4 @@
 В ходе обучения на специалитете были выполнены следующие документы:
 * [Vision ](https://github.com/Shaldenkova/portfolio/blob/master/Vision.doc) проекта
 * [Project Plan](https://github.com/Shaldenkova/portfolio/blob/master/Project_Plan4.xlsx) проекта
+* [Requirements] (https://github.com/Shaldenkova/portfolio/blob/master/requirements3.doc) проекта
