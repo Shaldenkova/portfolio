@@ -17,7 +17,7 @@
 
 2.  **Модуль "Профессиональная коммуникация"**
 - Информационные технологии в профессиональной деятельности [(диф. зачет)](https://github.com/Shaldenkova/portfolio/blob/master/IT_v_professionalnoi_deyatelnosti.md)
-- Иностранный язык в профессиональной коммуникации [(экзамен)](https://drive.google.com/open?id=1fs6_0lKe3K27zq84lQ168CMz7yVG8Bfz)
+- Иностранный язык в профессиональной коммуникации [(экзамен)](https://github.com/Shaldenkova/portfolio/blob/master/Inostranniy_yazik_v_prof_com.md)
 
 3.  **Модуль "Инновационные методы и технологии корпоративного электронного обучения"**
 - Мобильное корпоративное обучение
